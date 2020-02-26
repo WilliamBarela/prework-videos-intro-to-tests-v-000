@@ -4,5 +4,5 @@ def ounces_to_grams(ounces)
 end
 
 def author(name)
-  "${name} is a great programmer!"
+  "#{name} is a great programmer!"
 end
