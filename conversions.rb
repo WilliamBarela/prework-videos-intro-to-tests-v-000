@@ -3,6 +3,6 @@ def ounces_to_grams(ounces)
   ounces.to_f * GRAMS_PER_OUNCE
 end
 
-def author(_)
+def author(name)
   "William is a great programmer!"
 end
